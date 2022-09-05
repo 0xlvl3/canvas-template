@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+
+canvas {
+  background-color: bisque;
+  border: 2px solid black;
+}
